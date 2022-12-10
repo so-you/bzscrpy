@@ -1,0 +1,182 @@
+### 分页标签
+<div class="vui_pagenation--btns">
+    <button class="vui_button vui_button--disabled vui_pagenation--btn vui_pagenation--btn-side" disabled="">上一页</button><!---->
+    <button class="vui_button vui_button--active vui_button--active-blue vui_button--no-transition vui_pagenation--btn vui_pagenation--btn-num">1</button>
+    <button class="vui_button vui_button--no-transition vui_pagenation--btn vui_pagenation--btn-num">2</button>
+    <button class="vui_button vui_button--no-transition vui_pagenation--btn vui_pagenation--btn-num">3</button>
+    <button class="vui_button vui_button--no-transition vui_pagenation--btn vui_pagenation--btn-num">4</button>
+    <button class="vui_button vui_button--no-transition vui_pagenation--btn vui_pagenation--btn-num">5</button>
+    <button class="vui_button vui_button--no-transition vui_pagenation--btn vui_pagenation--btn-num">6</button>
+    <button class="vui_button vui_button--no-transition vui_pagenation--btn vui_pagenation--btn-num">7</button>
+    <span class="vui_pagenation--extend">...</span>
+    <button class="vui_button vui_button--no-transition vui_pagenation--btn vui_pagenation--btn-num">28</button>
+    <button class="vui_button vui_pagenation--btn vui_pagenation--btn-side">下一页</button>
+</div>
+
+##### video-list中的单个视频内容
+<html>
+ <head></head>
+ <body>
+  <div class="col_3 col_xs_1_5 col_md_2 col_xl_1_7 mb_x40" data-v-60dc383e="">
+   <div class="bili-video-card" data-v-5e0f0870="" data-v-60dc383e="">
+    <div class="bili-video-card__skeleton hide" data-v-5e0f0870="">
+     <div class="bili-video-card__skeleton--cover" data-v-5e0f0870=""></div>
+     <div class="bili-video-card__skeleton--info" data-v-5e0f0870="">
+      <div class="bili-video-card__skeleton--right" data-v-5e0f0870="">
+       <p class="bili-video-card__skeleton--text" data-v-5e0f0870=""></p>
+       <p class="bili-video-card__skeleton--text short" data-v-5e0f0870=""></p>
+       <p class="bili-video-card__skeleton--light" data-v-5e0f0870=""></p>
+      </div>
+     </div>
+    </div>
+    <div class="bili-video-card__wrap __scale-wrap" data-v-5e0f0870="">
+     <a href="//www.bilibili.com/video/BV1eM411z7oN/" class="" target="_blank" data-v-5e0f0870="" data-mod="search-card" data-idx="all" data-ext="click">
+      <div class="bili-video-card__image __scale-player-wrap" data-v-5e0f0870="">
+       <div class="bili-video-card__image--wrap" data-v-5e0f0870="">
+        <div class="bili-watch-later" style="display: none;">
+         <svg class="bili-watch-later__icon">
+          <use xlink:href="#widget-watch-later"></use>
+         </svg>
+         <span class="bili-watch-later__tip" style="display: none;">稍后再看</span>
+        </div>
+        <picture class="v-img bili-video-card__cover" data-v-5e0f0870="">
+         <!---->
+         <source srcset="//i2.hdslb.com/bfs/archive/a0f076386a27c53dff1f881d6c4d7cd46b111d80.jpg@672w_378h_1c_!web-search-common-cover.avif" type="image/avif"></source>
+         <source srcset="//i2.hdslb.com/bfs/archive/a0f076386a27c53dff1f881d6c4d7cd46b111d80.jpg@672w_378h_1c_!web-search-common-cover.webp" type="image/webp"></source>
+         <img src="//i2.hdslb.com/bfs/archive/a0f076386a27c53dff1f881d6c4d7cd46b111d80.jpg@672w_378h_1c_!web-search-common-cover" alt="神预测，2022年卡塔尔世界杯预测比分和结局，阿根廷vz克罗地亚" loading="lazy" onload="" />
+        </picture>
+        <div class="v-inline-player">
+         <div data-iid="27" data-injector="nano" class="bpx-docker bpx-docker-major">
+          <div class="bpx-player-container bpx-state-disable-box-shadow bpx-state-no-cursor" data-screen="normal" data-ctrl-hidden="true"> 
+           <div class="bpx-player-primary-area" aria-label="哔哩哔哩播放器"> 
+            <div class="bpx-player-video-area"> 
+             <div class="bpx-player-video-perch"> 
+              <div class="bpx-player-video-wrap">
+               <video crossorigin="anonymous" preload="auto" src="blob:https://search.bilibili.com/536c06cf-2758-44ec-ab6b-5ef979cdbb5e"></video>
+              </div> 
+             </div> 
+             <div class="bpx-player-row-dm-wrap"></div> 
+             <div class="bpx-player-adv-dm-wrap"></div> 
+             <div class="bpx-player-bas-dm-wrap"></div> 
+             <div class="bpx-player-cmd-dm-wrap"> 
+              <div class="bpx-player-cmd-dm-inside" style="width: 76.5px; height: 153px;"></div> 
+             </div> 
+             <div class="bpx-player-ending-wrap" data-select="0"> 
+              <div class="bpx-player-ending-backdrop" data-option="0"></div> 
+              <div class="bpx-player-ending-panel" data-option="1"></div> 
+              <div class="bpx-player-share-panel" data-option="2"></div> 
+             </div> 
+             <div class="bpx-player-subtitle-wrap"></div> 
+             <div class="bpx-player-top-wrap" hidden=""> 
+              <div class="bpx-player-top-mask" hidden=""></div> 
+              <div class="bpx-player-top-title"></div> 
+              <div class="bpx-player-top-follow"></div> 
+              <div class="bpx-player-top-left"> 
+               <div class="bpx-player-top-left-title"></div> 
+               <div class="bpx-player-top-left-follow"></div> 
+               <div class="bpx-player-top-left-music"></div> 
+               <div class="bpx-player-top-left-panorama"></div> 
+              </div> 
+              <div class="bpx-player-top-issue"> 
+               <span class="bpx-player-top-issue-icon"></span> 
+              </div> 
+             </div> 
+             <div class="bpx-player-state-wrap"> 
+              <div class="bpx-player-state-play" style="display: none;"></div> 
+              <div class="bpx-player-state-buff-icon"></div> 
+              <div class="bpx-player-state-buff-text"> 
+               <span class="bpx-player-state-buff-title">正在缓冲...</span> 
+               <span class="bpx-player-state-buff-speed"></span> 
+              </div> 
+             </div> 
+             <div class="bpx-player-loading-panel"> 
+              <div class="bpx-player-loading-panel-text" hidden="">
+               <div class="bpx-player-loading-panel-text-row"> 
+                <span>获取视频参数...</span> 
+                <span>[成功]</span> 
+               </div> 
+               <div class="bpx-player-loading-panel-text-row"> 
+                <span>播放器初始化...</span> 
+                <span>[成功]</span> 
+                <span class="bpx-common-opacity-60">3.16.0-9b97d64a</span> 
+               </div> 
+               <div class="bpx-player-loading-panel-text-row"> 
+                <span>获取播放地址...</span> 
+                <span>[成功]</span> 
+               </div> 
+               <div class="bpx-player-loading-panel-text-row"> 
+                <span>加载视频信息...</span> 
+                <span>[成功]</span> 
+               </div> 
+               <div class="bpx-player-loading-panel-text-row"> 
+                <span>加载视频内容...</span> 
+               </div> 
+              </div> 
+              <div class="bpx-player-loading-panel-blur" hidden=""> 
+               <div class="bpx-player-loading-panel-blur-detail"></div> 
+              </div> 
+             </div> 
+             <div class="bpx-player-toast-wrap"> 
+              <div class="bpx-player-toast-auto"></div> 
+              <div class="bpx-player-toast-fixed"></div> 
+             </div> 
+             <div class="bpx-player-control-wrap" hidden=""> 
+              <div class="bpx-player-control-mask" style="display: none;"></div> 
+              <div class="bpx-player-control-entity" style="display: none;"> 
+               <div class="bpx-player-control-top"></div> 
+               <div class="bpx-player-control-bottom"> 
+                <div class="bpx-player-control-bottom-left"></div> 
+                <div class="bpx-player-control-bottom-center"></div> 
+                <div class="bpx-player-control-bottom-right"></div> 
+               </div> 
+              </div> 
+             </div> 
+             <div class="bpx-player-dialog-wrap"></div> 
+             <div class="bpx-player-music-wrap"></div> 
+            </div> 
+            <div class="bpx-player-sending-area" hidden=""> 
+             <div class="bpx-player-sending-bar"> 
+              <div class="bpx-player-sending-bar-left"></div> 
+              <div class="bpx-player-sending-bar-right"></div> 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bpx-player-dialog-area"></div> 
+           <div class="bpx-player-tooltip-area"></div> 
+           <div class="bpx-player-context-area"></div> 
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="bili-video-card__mask" data-v-5e0f0870="">
+        <div class="bili-video-card__stats" data-v-5e0f0870="">
+         <div class="bili-video-card__stats--left" data-v-5e0f0870="">
+          <span class="bili-video-card__stats--item" data-v-5e0f0870="">
+           <svg class="bili-video-card__stats--icon" data-v-5e0f0870="">
+            <use xlink:href="#widget-video-play-count"></use>
+           </svg><span data-v-5e0f0870="">584</span></span>
+          <span class="bili-video-card__stats--item" data-v-5e0f0870="">
+           <svg class="bili-video-card__stats--icon" data-v-5e0f0870="">
+            <use xlink:href="#widget-video-danmaku"></use>
+           </svg><span data-v-5e0f0870="">0</span></span>
+         </div>
+         <span class="bili-video-card__stats__duration" data-v-5e0f0870="">00:48</span>
+        </div>
+       </div>
+      </div></a>
+     <div class="bili-video-card__info __scale-disable" data-v-5e0f0870="">
+      <!---->
+      <div class="bili-video-card__info--right" data-v-5e0f0870="">
+       <a href="//www.bilibili.com/video/BV1eM411z7oN/" target="_blank" data-v-5e0f0870="" data-mod="search-card" data-idx="all" data-ext="click"><h3 class="bili-video-card__info--tit" title="神预测，2022年卡塔尔世界杯预测比分和结局，阿根廷vz克罗地亚" data-v-5e0f0870="">神预测，2022年<em class="keyword">卡塔尔世界杯</em>预测比分和结局，阿根廷vz克罗地亚</h3></a>
+       <p class="bili-video-card__info--bottom" data-v-5e0f0870=""><a class="bili-video-card__info--owner" href="//space.bilibili.com/109568934" target="_blank" data-v-5e0f0870="" data-mod="search-card" data-idx="all" data-ext="click">
+         <svg class="bili-video-card__info--author-ico mr_2" data-v-5e0f0870="">
+          <use xlink:href="#widget-up"></use>
+         </svg><span class="bili-video-card__info--author" data-v-5e0f0870="">一只大墩墩Dwen</span><span class="bili-video-card__info--date" data-v-5e0f0870=""> &middot; 2小时前</span></a>
+        <!----></p>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+ </body>
+</html>
